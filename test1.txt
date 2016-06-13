@@ -1,0 +1,13 @@
+qp * q0 * r
+q0 a q1 x r
+q0 y q4 y r
+q1 a q1 a r
+q1 y q1 y r
+q1 b q2 y r
+q2 b q3 y s
+q3 y q3 y l
+q3 a q3 a l
+q3 b q3 b l
+q3 x q0 x r
+q4 y q4 y r
+q4 * ha * l

@@ -1,0 +1,5 @@
+p * q * r
+q 1 q 1 r
+q * r 1 r
+r * ha * l
+
